@@ -3,11 +3,11 @@ cat > README.md << 'EOF'
 
 A home-grown Security Onion SOC lab demonstrating:
 
-- 🛠️ Security Onion setup & configuration  
-- 📜 Custom Suricata/YARA/Zeek detection rules  
-- 🐍 Python/Bash scripts for log parsing & alert analysis  
-- 📊 Kibana dashboards & exports  
-- 📝 Investigation reports & sample PCAPs  
+- Security Onion setup & configuration  
+- Custom Suricata/YARA/Zeek detection rules  
+- Python/Bash scripts for log parsing & alert analysis  
+- Kibana dashboards & exports  
+- Investigation reports & sample PCAPs  
 
 ---
 
